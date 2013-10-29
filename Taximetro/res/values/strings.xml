@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Taximetro</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="title_activity_corrida" translatable="false">CorridaActivity</string>
+    <string name="title_activity_mapa_corrida" translatable="false">MapaCorridaActivity</string>
+    <string name="title_activity_splash">Taximetro</string>
+    <string name="corrida">Corrida</string>
+    <string name="launcher_splash">Tela De Launcher</string>
+
+</resources>
